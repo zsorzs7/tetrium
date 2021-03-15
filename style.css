@@ -1,0 +1,19 @@
+.table{
+    background-color: aqua;
+    width: 490px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+}
+
+.item{
+    height: 30px;
+    width: 30px;
+    background-color: darkgray;
+    border-radius: 50px;
+    margin: 20px;
+    cursor: pointer;
+}
